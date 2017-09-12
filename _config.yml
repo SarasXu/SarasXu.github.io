@@ -2,8 +2,8 @@
 title: '风的季节'
 description: '风的季节'
 keyword: '风的季节'
-url: '/' # your host
-baseurl: '/'
+url: '' # your host
+baseurl: ''
 
 # Navigation links
 nav:
