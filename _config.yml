@@ -3,18 +3,18 @@ title: 'Saras'
 description: 'IT 菜鸟'
 keyword: '菜鸟'
 url: 'http://www.swtbate.com' # your host
-baseurl: '/'
+baseurl: '//'
 
 # Navigation links
 nav:
-  home: '/'
-  tags: '/tags.html'
+  home: '//'
+  tags: '//tags.html'
 
 # Author 配置博主信息
 author: 'Saras'
 nickname: 'Saras'
 bio: 'Saras'
-avatar: 'assets/img/profile.png'
+avatar: '/assets/img/profile.png'
 
 # Search
 search: true
