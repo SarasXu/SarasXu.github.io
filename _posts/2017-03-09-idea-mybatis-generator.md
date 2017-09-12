@@ -1,7 +1,8 @@
 ---
 layout: post
 title: idea-mybatis-generator（转）
-category: technology
+categories: technology
+tags: 技术 后台 java
 ---
 ## 摘要
 

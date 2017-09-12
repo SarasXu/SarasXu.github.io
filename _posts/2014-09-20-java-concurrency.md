@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Java 中的并发
-category: technology
+categories: technology
+tags: 技术 后台 java
 ---
 
 

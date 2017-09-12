@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: '风的季节'
-description: '踏浪而行，为我所愿。风雨无阻，坦荡豁达。---Saras'
+description: '踏浪而行，为我所愿。风雨无阻，坦荡豁达。'
 keyword: '风的季节'
 url: 'https://sarasxu.github.io' # your host
 baseurl: '/'
@@ -11,7 +11,7 @@ nav:
   tags: '/tags.html'
 
 # Author 配置博主信息
-author: 'Saras'
+author: 'Saras_Xu'
 nickname: 'Saras'
 bio: 'Saras'
 avatar: 'https://avatars.githubusercontent.com/SarasXu'

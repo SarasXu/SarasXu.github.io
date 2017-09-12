@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 定制自定义maven-archetype
-category: technology
+categories: technology
+tags: 技术 后端 java maven
 ---
 
 # 项目搭建

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: linux 安装JDK
-category: technology
+categories: technology
+tags: 技术 后台 环境
 ---
 ## 卸载JDK
 
