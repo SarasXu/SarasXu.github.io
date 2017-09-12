@@ -1,14 +1,20 @@
+
+# source:       .
+# destination:  ./_site
+# plugins:      ./_plugins
+# layouts:      ./_layouts
+# paginate:     8
 # Site settings 配置站点
 title: 'Saras'
 description: 'IT 菜鸟'
 keyword: '菜鸟'
 url: 'http://www.swtbate.com' # your host
-baseurl: '//'
+baseurl: '/blog/'
 
 # Navigation links
 nav:
-  home: '//'
-  tags: '//tags.html'
+  home: '/blog/'
+  tags: '/blog/tags.html'
 
 # Author 配置博主信息
 author: 'Saras'
