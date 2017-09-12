@@ -2,10 +2,10 @@
 layout: post
 title: 苍云门派入门详解
 subtitle: '苍云新兵上路技能食用方式'
-categories: life
+categories: game
 date: 2017-09-12
 cover: 'https://sarasxu.github.io/blog/img/cangyun/title.png'
-tags: jekyll
+tags: 游戏
 ---
 # 苍云
 
