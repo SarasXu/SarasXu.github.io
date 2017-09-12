@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: 'Saras'
-description: 'IT 菜鸟'
-keyword: '菜鸟'
-url: 'http://www.swtbate.com' # your host
+title: '风的季节'
+description: '风的季节'
+keyword: '风的季节'
+url: '/' # your host
 baseurl: '/'
 
 # Navigation links
@@ -14,7 +14,7 @@ nav:
 author: 'Saras'
 nickname: 'Saras'
 bio: 'Saras'
-avatar: 'assets/img/profile.png'
+avatar: 'https://avatars.githubusercontent.com/SarasXu'
 
 # Search
 search: true
