@@ -2,8 +2,8 @@
 title: '风的季节'
 description: '风的季节'
 keyword: '风的季节'
-url: '' # your host
-baseurl: ''
+url: '/sarasxu.github.io' # your host
+baseurl: '/sarasxu.github.io'
 
 # Navigation links
 nav:
