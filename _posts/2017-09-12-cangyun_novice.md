@@ -5,7 +5,7 @@ subtitle: '苍云新兵上路技能食用方式'
 categories: life
 date: 2017-09-12
 cover: 'https://sarasxu.github.io/blog/img/cangyun/title.png'
-tags: 生活 游戏
+tags: jekyll
 ---
 # 苍云
 
