@@ -4,7 +4,7 @@ title: 苍云门派入门详解
 subtitle: '苍云新兵上路技能食用方式'
 categories: life
 date: 2017-09-12
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
+cover: 'https://sarasxu.github.io/blog/img/cangyun/title.png'
 tags: 生活 游戏
 ---
 # 苍云
