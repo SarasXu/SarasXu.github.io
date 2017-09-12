@@ -3,7 +3,7 @@ title: 'Saras'
 description: 'IT 菜鸟'
 keyword: '菜鸟'
 url: 'http://www.swtbate.com' # your host
-baseurl: '/wind'
+baseurl: '/'
 
 # Navigation links
 nav:
