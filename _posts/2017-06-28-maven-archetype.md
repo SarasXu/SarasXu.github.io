@@ -3,6 +3,8 @@ layout: post
 title: 定制自定义maven-archetype
 categories: technology
 tags: 技术 后端 java maven
+date: 2017-06-28
+cover: 'https://sarasxu.github.io/assets/img/title.jpeg'
 ---
 
 # 项目搭建
